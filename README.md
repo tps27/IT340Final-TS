@@ -5,4 +5,4 @@ This github repository contains files that display edits made to specific direct
 
 #CONFIGURATION
 
-For these files to work, nagios core, nagios-plugins, snmp, snmpd, MIB downloader, mysql, apache, systemd, and vim have to be downloaded and installed in your CentOS system. The files in this repositiory have the following addresses:
+For these files to work, nagios core, nagios-plugins, snmp, snmpd, MIB downloader, mysql, apache, systemd, and vim have to be downloaded and installed in your CentOS system. 
